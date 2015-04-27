@@ -7,7 +7,7 @@
  * Mentor: Dr. Harry Li <hua.li@sjsu.edu>
  * Date: Apr 25, 2015
  * Group: Group 1
- * Version: 0.1
+ * Version:1.0 
  */
 
 #define DEBUG 0
